@@ -80,7 +80,7 @@ public class Main {
                 System.out.println("Осень");
                 break;
             default:
-                System.out.println("Такого сезона не сушествует");
+                System.out.println("Такого сезона не сушествует.");
         }
     }
 
